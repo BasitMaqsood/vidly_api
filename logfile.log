@@ -1,0 +1,516 @@
+{"message":"undefined","stack":"Error: Something failed miserably!\n    at Object.<anonymous> (C:\\Office\\NodeJS\\vidly\\index.js:32:26)\n    at Module._compile (internal/modules/cjs/loader.js:776:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:829:12)\n    at startup (internal/bootstrap/node.js:283:19)\n    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)","level":"error","timestamp":"2019-07-09T11:42:23.802Z"}
+{"message":"Couldnot get the Genre","stack":"Error: Couldnot get the Genre\n    at router.get (C:\\Office\\NodeJS\\vidly\\routes\\genres.js:14:15)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at authentication (C:\\Office\\NodeJS\\vidly\\middlewares\\authentication.js:3:5)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)","level":"error","timestamp":"2019-07-09T12:44:07.494Z"}
+{"message":"Couldnot get the Genre","stack":"Error: Couldnot get the Genre\n    at router.get (C:\\Office\\NodeJS\\vidly\\routes\\genres.js:14:15)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at authentication (C:\\Office\\NodeJS\\vidly\\middlewares\\authentication.js:3:5)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)","level":"error","timestamp":"2019-07-09T12:44:26.961Z"}
+{"message":"Couldnot get the Genre","stack":"Error: Couldnot get the Genre\n    at router.get (C:\\Office\\NodeJS\\vidly\\routes\\genres.js:14:15)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at authentication (C:\\Office\\NodeJS\\vidly\\middlewares\\authentication.js:3:5)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)","level":"error","timestamp":"2019-07-09T12:44:27.986Z"}
+{"level":"info","message":"Connected to DataBase","timestamp":"2019-07-10T05:39:14.816Z"}
+{"message":"Couldnot get the Genre","stack":"Error: Couldnot get the Genre\n    at router.get (C:\\Office\\NodeJS\\vidly\\routes\\genres.js:14:15)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at authentication (C:\\Office\\NodeJS\\vidly\\middlewares\\authentication.js:3:5)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)","level":"error","timestamp":"2019-07-10T05:40:10.333Z"}
+{"message":"Couldnot get the Genre","stack":"Error: Couldnot get the Genre\n    at router.get (C:\\Office\\NodeJS\\vidly\\routes\\genres.js:14:15)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at authentication (C:\\Office\\NodeJS\\vidly\\middlewares\\authentication.js:3:5)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)","level":"error","timestamp":"2019-07-10T05:40:51.903Z"}
+{"message":"Couldnot get the Genre","stack":"Error: Couldnot get the Genre\n    at router.get (C:\\Office\\NodeJS\\vidly\\routes\\genres.js:14:15)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at authentication (C:\\Office\\NodeJS\\vidly\\middlewares\\authentication.js:3:5)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)","level":"error","timestamp":"2019-07-10T05:42:07.572Z"}
+{"message":"Couldnot get the Genre","stack":"Error: Couldnot get the Genre\n    at router.get (C:\\Office\\NodeJS\\vidly\\routes\\genres.js:14:15)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at authentication (C:\\Office\\NodeJS\\vidly\\middlewares\\authentication.js:3:5)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)","level":"error","timestamp":"2019-07-10T05:47:46.584Z"}
+{"message":"Couldnot get the Genre","stack":"Error: Couldnot get the Genre\n    at router.get (C:\\Office\\NodeJS\\vidly\\routes\\genres.js:14:15)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at authentication (C:\\Office\\NodeJS\\vidly\\middlewares\\authentication.js:3:5)\n    at newFn (C:\\Office\\NodeJS\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Office\\NodeJS\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)","level":"error","timestamp":"2019-07-10T05:57:59.970Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T11:58:02.770Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly ...","timestamp":"2019-07-11T11:58:03.836Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T11:59:14.021Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly ...","timestamp":"2019-07-11T11:59:15.069Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T12:01:44.915Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T12:01:45.964Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T12:02:32.654Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T12:02:33.706Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T12:02:49.527Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly ...","timestamp":"2019-07-11T12:02:50.583Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T12:28:49.234Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly ...","timestamp":"2019-07-11T12:28:50.313Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T12:29:45.985Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly ...","timestamp":"2019-07-11T12:29:47.030Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T12:30:17.854Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly ...","timestamp":"2019-07-11T12:30:18.896Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:31:10.996Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:31:12.066Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:37:01.882Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:37:02.936Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:37:54.546Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:37:55.590Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:40:17.328Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:40:18.379Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:43:31.599Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:43:32.644Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:44:52.500Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:44:53.544Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:47:07.134Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:47:08.179Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:47:29.704Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:47:30.755Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:54:07.182Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:54:08.246Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:54:53.602Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:54:54.648Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:55:27.714Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:55:28.784Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:55:44.455Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:55:45.498Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:56:22.970Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:56:24.046Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:56:37.864Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:56:38.909Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T13:57:44.015Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T13:57:45.063Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:10:48.527Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:10:49.579Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:11:14.811Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:11:15.857Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:13:25.611Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:13:26.657Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:13:41.396Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:13:42.452Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (C:\\Office\\NodeJS\\vidly\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2019-07-11T14:13:43.564Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:14:13.701Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:14:14.755Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (C:\\Office\\NodeJS\\vidly\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2019-07-11T14:14:15.890Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:15:33.915Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:15:34.960Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (C:\\Office\\NodeJS\\vidly\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2019-07-11T14:15:36.081Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:19:28.519Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:19:29.564Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (C:\\Office\\NodeJS\\vidly\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2019-07-11T14:19:30.645Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:20:24.389Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:20:25.433Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:22:42.409Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:22:43.458Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:23:37.369Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:23:38.471Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (C:\\Office\\NodeJS\\vidly\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2019-07-11T14:23:39.609Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:24:02.711Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:24:03.782Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (C:\\Office\\NodeJS\\vidly\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2019-07-11T14:24:04.908Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:24:18.559Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:24:19.652Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (C:\\Office\\NodeJS\\vidly\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2019-07-11T14:24:20.780Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:25:38.462Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:25:39.565Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schema\\objectid.js:244:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:948:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1362:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1352:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\schematype.js:1331:15)\n    at cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:4576:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:1783:10)\n    at model.Query.<anonymous> (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\query.js:2038:8)\n    at model.Query._wrappedThunk [as _findOne] (C:\\Office\\NodeJS\\vidly\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (C:\\Office\\NodeJS\\vidly\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","timestamp":"2019-07-11T14:25:40.695Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:26:03.257Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:26:04.342Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:26:31.715Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:26:32.759Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:30:57.017Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:30:58.063Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:31:34.011Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:31:35.062Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:31:52.219Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:31:53.268Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:32:39.196Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:32:40.249Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:34:01.717Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:34:02.764Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:36:40.332Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:36:41.378Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:38:20.512Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:38:21.564Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:39:17.177Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:39:18.245Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:40:01.462Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:40:02.507Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:40:15.985Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:40:17.030Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:42:44.358Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:42:45.402Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:44:27.757Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:44:28.805Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:45:49.762Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:45:50.816Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:47:49.689Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:47:50.747Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:49:07.296Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:49:08.345Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:50:45.375Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:50:46.580Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:51:21.155Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:51:22.208Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:52:33.759Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:52:34.808Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:52:52.349Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:52:53.440Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:53:14.588Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:53:15.631Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T14:53:37.726Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T14:53:38.770Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T18:59:51.812Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T18:59:52.857Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:00:16.243Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:00:17.288Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:03:49.335Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:03:50.378Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:04:22.949Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:04:23.999Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:05:05.230Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:05:05.243Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:06:46.103Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:06:46.122Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:07:50.438Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:07:51.482Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:11:20.780Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:11:21.825Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:13:44.186Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:13:45.231Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:14:11.527Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:14:12.569Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:16:06.290Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:16:07.337Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:17:22.577Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:17:23.621Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:17:44.743Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:17:45.794Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:18:51.339Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:18:52.391Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:19:30.196Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:19:31.245Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:20:16.494Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:20:17.539Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:21:42.885Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:21:43.929Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:23:31.344Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:23:32.392Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:24:00.914Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:24:01.960Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:24:45.912Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:24:46.956Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:25:09.023Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:25:10.068Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:26:32.677Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:26:33.723Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:27:12.109Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:27:13.166Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:28:02.115Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:28:03.160Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:28:20.929Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:28:21.982Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:31:02.824Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:31:03.877Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:31:48.128Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:31:49.176Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:32:09.228Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:32:10.277Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:32:42.182Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:32:43.229Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:34:43.879Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:34:44.937Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:35:09.134Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:35:10.188Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:36:09.055Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:36:10.103Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:36:32.119Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:36:33.171Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:37:02.868Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:37:03.913Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:38:01.885Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:38:02.931Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:38:19.109Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:38:20.159Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:39:00.732Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:39:01.800Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:39:53.192Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:39:54.244Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:40:10.455Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:40:11.500Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:40:23.221Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:40:24.266Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:43:26.070Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:43:27.113Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:44:06.126Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:44:07.173Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:58:12.900Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:58:13.950Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:58:46.460Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:58:47.510Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:59:06.417Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:59:07.482Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T19:59:52.147Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T19:59:53.192Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T20:02:04.035Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T20:02:05.085Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T20:03:17.972Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T20:03:19.018Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-11T20:03:35.269Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-11T20:03:36.326Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T05:50:19.197Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T05:50:20.250Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T05:52:26.555Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T05:52:27.601Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T05:55:06.846Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T05:55:07.901Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T05:56:08.807Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T05:56:09.857Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T05:59:46.726Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T05:59:47.780Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:00:49.525Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:00:50.576Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:02:36.543Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:02:37.601Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:02:55.016Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:02:56.061Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:03:14.490Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:03:15.542Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:04:03.308Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:04:04.356Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:04:25.712Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:04:26.761Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:06:12.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:06:13.281Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:06:47.324Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:06:48.377Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:08:20.443Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:08:21.496Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:08:39.681Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:08:40.729Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:09:15.807Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:09:16.856Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:09:47.748Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:09:48.798Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:12:09.365Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:12:10.419Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:12:48.058Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:12:49.109Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:13:54.592Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:13:55.641Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:14:19.168Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:14:20.218Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:15:12.572Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:15:13.622Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:15:57.153Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:15:58.205Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:16:41.475Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:16:42.528Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:17:09.507Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:17:10.554Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:17:56.035Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:17:57.088Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:18:18.250Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:18:19.296Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:18:37.135Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:18:38.186Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:19:04.438Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:19:05.494Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:34:08.598Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:34:09.651Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:35:40.647Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:35:41.796Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:36:00.101Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:36:01.145Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:36:49.573Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:36:50.627Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:37:17.516Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:37:18.564Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:38:04.774Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:38:05.820Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:38:22.265Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:38:23.318Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:38:38.613Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:38:39.680Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:39:07.641Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:39:08.698Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:39:28.130Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:39:29.198Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:41:36.238Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:41:37.300Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:43:23.759Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:43:24.815Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:44:01.553Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:44:02.651Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:44:35.283Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:44:35.937Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:44:36.333Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:44:37.060Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:45:35.334Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:45:35.876Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:45:36.387Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:45:36.977Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:46:04.558Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:46:05.621Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:46:28.011Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:46:29.085Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:48:06.558Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:48:07.612Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:49:16.387Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:49:17.440Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:49:39.000Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:49:39.685Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:49:40.052Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:49:40.817Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:50:36.598Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:50:37.174Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:50:37.655Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:50:38.275Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:52:06.300Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:52:06.891Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:52:07.363Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:52:07.995Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:54:02.535Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:54:03.581Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:54:03.618Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:54:03.633Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:54:41.854Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:54:42.475Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:54:42.909Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:54:43.573Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:56:15.394Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:56:16.447Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:56:41.926Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:56:42.389Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:56:42.403Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:56:43.025Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:57:51.733Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:57:52.749Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:57:52.857Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:57:52.777Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:59:12.142Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:59:13.302Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:59:13.294Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:59:13.317Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:59:35.759Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:59:36.817Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T06:59:36.832Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T06:59:36.874Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:00:23.255Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:00:23.812Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:00:23.828Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:00:24.360Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:01:20.253Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:01:21.391Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:01:22.052Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:01:22.067Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:01:57.144Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:01:58.278Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:01:58.978Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:01:58.993Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:02:23.243Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:02:24.287Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:02:24.341Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:02:24.356Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:03:44.073Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:03:45.121Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:10:44.770Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:10:44.871Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:10:45.829Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:10:45.973Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:11:49.023Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:11:50.087Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:11:49.990Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:11:51.140Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:13:19.880Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly ...","timestamp":"2019-07-12T07:13:20.925Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:14:28.727Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:14:28.741Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:14:29.433Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:19:55.341Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:19:55.915Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:19:55.935Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:19:56.452Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:21:19.558Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:21:20.017Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:21:20.031Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:21:20.664Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:22:13.752Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:22:13.766Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:22:35.681Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:22:36.729Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:34:08.104Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:34:09.165Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:34:25.682Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:34:26.770Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:34:41.986Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:34:43.030Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:35:16.217Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:35:17.279Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:35:57.656Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:35:58.704Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:36:58.191Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:36:59.237Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:38:20.135Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:38:21.182Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:39:28.823Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:39:29.873Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:40:07.689Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:40:08.735Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:40:31.359Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:40:32.409Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:40:48.545Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:40:49.591Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:41:05.988Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:41:07.052Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:41:33.068Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:41:34.128Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:42:02.015Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:42:03.059Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:42:26.466Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:42:27.513Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T07:52:39.467Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T07:52:40.559Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T08:02:04.531Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T08:02:05.591Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T08:02:28.799Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T08:02:29.844Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T08:03:03.076Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T08:03:04.127Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T08:03:31.551Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T08:03:32.596Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T09:36:44.133Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T09:36:45.195Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T09:37:10.523Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T09:37:11.580Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T09:38:26.985Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly ...","timestamp":"2019-07-12T09:38:28.046Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T10:59:36.624Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T10:59:37.690Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T10:59:38.185Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T11:07:06.324Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T11:07:07.373Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T11:08:55.574Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T11:08:56.643Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T11:10:53.264Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T11:10:54.319Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T11:14:19.304Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T11:14:20.355Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T11:14:21.166Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T11:22:33.128Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T11:22:34.183Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T11:23:17.336Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T11:23:18.382Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T11:50:50.317Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T11:50:51.370Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T12:11:42.555Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:11:43.610Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:11:44.335Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T12:28:37.190Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:28:38.246Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:28:38.431Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T12:29:41.784Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:29:42.846Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:29:42.951Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T12:29:42.967Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T12:31:43.905Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:31:44.971Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:31:45.120Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T12:31:45.135Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T12:33:50.449Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:33:51.509Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:33:51.751Z"}
+{"level":"info","message":"Server is listening at port 3000 ...","timestamp":"2019-07-12T12:33:51.767Z"}
+{"level":"info","message":"Server is listening at port 9000 ...","timestamp":"2019-07-12T12:40:08.400Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:40:09.480Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:40:09.592Z"}
+{"level":"info","message":"Server is listening at port 9000 ...","timestamp":"2019-07-12T12:40:09.612Z"}
+{"level":"info","message":"Server is listening at port 9000 ...","timestamp":"2019-07-12T12:41:02.011Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:41:03.079Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:41:03.422Z"}
+{"level":"info","message":"Server is listening at port 9000 ...","timestamp":"2019-07-12T12:41:03.438Z"}
+{"level":"info","message":"Server is listening at port 9000 ...","timestamp":"2019-07-12T12:46:45.820Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:46:46.868Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:46:46.981Z"}
+{"level":"info","message":"Server is listening at port 9000 ...","timestamp":"2019-07-12T12:47:22.633Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-12T12:47:23.963Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-13T04:21:10.498Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests ...","timestamp":"2019-07-13T04:21:47.258Z"}
+{"level":"info","message":"Server is listening at port 9000 ...","timestamp":"2019-07-13T04:39:06.859Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly ...","timestamp":"2019-07-13T04:39:07.912Z"}
+{"level":"info","message":"Server is listening at port 9000 ...","timestamp":"2019-07-27T19:08:55.719Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly ...","timestamp":"2019-07-27T19:08:56.803Z"}
