@@ -7,12 +7,7 @@ const admin = require('../middlewares/admin');
 const { Genre , validate } = require('../models/genre');
 const router = express.Router();
 
-
-
-
-router.get('/' , async (req , res) =>{
-
-    
+router.get('/' , async (req , res) =>{    
         //throw new Error('Couldnot get the Genre');
         
         const genres = await Genre.find().sort('name');
