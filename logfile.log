@@ -518,3 +518,5 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly ...","timestamp":"2020-01-03T16:40:18.638Z"}
 {"level":"info","message":"Server is listening at port 9000 ...","timestamp":"2020-01-03T17:03:51.739Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly ...","timestamp":"2020-01-03T17:03:52.793Z"}
+{"level":"info","message":"Server is listening at port 9000 ...","timestamp":"2020-01-03T18:14:45.789Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly ...","timestamp":"2020-01-03T18:14:46.832Z"}
